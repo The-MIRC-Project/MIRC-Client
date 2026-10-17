@@ -239,8 +239,7 @@ See [`../PROTOCOL.md`](../PROTOCOL.md) for the wire protocol.
 - No file attachments, reactions or threads yet.
 - No end-to-end encryption. Server operators can read DMs on their own server, as with IRC and Discord.
 - Profile editing happens on the website rather than inside the client.
-- The UI text is currently German.
 
 ## License
 
-MIT
+GPL-3.0
