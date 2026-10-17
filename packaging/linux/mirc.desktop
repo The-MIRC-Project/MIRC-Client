@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=MIRC
+GenericName=Chat Client
+Comment=Modern Internet Relay Chat – Channels, DMs and cosmetics
+Exec=mirc
+Icon=mirc
+Terminal=false
+Categories=Network;Chat;InstantMessaging;GTK;
+Keywords=chat;irc;mirc;
+StartupWMClass=mirc

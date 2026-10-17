@@ -1,0 +1,22 @@
+1 ICON "mirc.ico"
+1 VERSIONINFO
+FILEVERSION 0,1,0,0
+PRODUCTVERSION 0,1,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040704B0"
+    BEGIN
+      VALUE "CompanyName", "MIRC"
+      VALUE "FileDescription", "MIRC - Modern Internet Relay Chat"
+      VALUE "FileVersion", "0.1.0"
+      VALUE "ProductName", "MIRC"
+      VALUE "ProductVersion", "0.1.0"
+      VALUE "OriginalFilename", "mirc.exe"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x0407, 1200
+  END
+END
